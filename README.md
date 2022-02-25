@@ -1,0 +1,2 @@
+# Visimind---przedmiot-fakultatywny
+# Dokumentacja
