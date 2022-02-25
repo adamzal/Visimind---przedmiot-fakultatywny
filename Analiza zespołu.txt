@@ -1,0 +1,12 @@
+Budżet:
+15 (tygodni) * 5 (h) = 75 (h)
+
+Cel projektu:
+Wytworzenie aplikacji pozwalającej wklejać tekst/zdjęcia i udostępniać publicznie albo prywatnie innym użytkownikom poprzez odpowiedni link.
+
+Odpowiedzialność:
+JP 50% - Team leader
+Michał - Frontend
+Stefan - Backend
+Groy - Backend
+Adam - Test
