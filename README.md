@@ -1,2 +1,1 @@
-# Visimind---przedmiot-fakultatywny
-# Dokumentacja
+# Dokumentacja z zajęć
