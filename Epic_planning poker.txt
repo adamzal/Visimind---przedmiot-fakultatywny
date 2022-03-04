@@ -1,0 +1,30 @@
+Aplikacja web dostarczająca informację o Żabkach
+Features:
+	-Jako użytkownik chcę się zarejestrować
+	-Jako użytkownik chcę się zalogować
+	-Jako użytkownik chcę wyświetlić lokalizację na mapie
+	-Jako użytkownik chcę wyświetlić asortyment sklepu
+	-Jako użytkownik chcę wyświetlić godziny otwarcia
+User story/task
+	-Wyświetl formularz rejestracji 1
+	-Wstaw dane z formularza rejestracji do bazy 2
+	- Wyświetl formularz logowania 1
+	-Sprawdź dane z formularza z danymi z bazy 2
+	-CRUD dane lokalizacji 3
+	-wyświetl mapę 3
+	-ustaw lokalizację na mapie 5
+	-CRUD dane asortymentu 3
+	-CRUD godziny otwarcia 3
+
+Aplikacja desktopowa wykorzystująca AI i ML do wykrywania obiektów na zdjęciach
+Features:
+	-Jako użytkownik chcę wykryć obiekt na przekazanym zdjęciu
+User story/task
+	-pobierz zdjęcie od użytkownika 2
+	-załaduj zbiór treningowy 1
+	-załaduj zbiór testowy 1
+	-wytrenuj zbiór treningowy 13
+	-sprawdź poprawność wytrenowania na zbiorze testowym 2
+	-przepuść pobrane zdjęcie przez wyuczony model 1
+	-wyświetl nazwę wykrytego obiektu 1
+	
