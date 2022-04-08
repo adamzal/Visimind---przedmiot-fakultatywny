@@ -1,0 +1,10 @@
+0. Formularz przesyłania znajduje się w widocznym miejscu.
+1. Przycisk wybierania ma nazwę "Wybierz zdjęcie".
+2. Przycisk przesyłania ma nazwę "Prześlij".
+3. Wybieranie zdjęcia zaczyna się po wciśnięciu przycisku "Wybierz zdjęcie".
+5. Użytkownik nie może wybrać pliku o rozszerzeniu innym niż png, jpg.
+6. Użytkownik nie może wybrać więcej niż 10 zdjęć.
+6. Zdjęcie nie może przekroczyć rozmiaru 7 MB.
+7. Na stronie pojawiają się miniatury wybranych zdjęć.
+8. Pod każdą miniaturą wyświetla się opcja usunięcia danego zdjęcia.
+8. Przesyłanie rozpoczyna się po wciśnięciu przycisku "Prześlij".
